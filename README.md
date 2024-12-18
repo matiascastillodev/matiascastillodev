@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Matías 👋
 
-<!--
-**matiascastillodev/matiascastillodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZ2bGN6bnBpdHRsZmk2NTF2NGZjN3l6YmlmdDVhOWp4d255MjRmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wn74RUT0vjnoU98Hnt/giphy.gif">
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Self-taught Web Developer from Argentina.
+
+### Technologies I Use
+
+<img src="https://skillicons.dev/icons?i=apple,arduino,babel,bash,cloudflare,css,express,figma,git,github,html,js,jest,md,mysql,netlify,nodejs,notion,npm,postgres,react,unity,vscode,webpack,wordpress,workers&perline=10">
+
+### Contact Me
+<a href="mailto:matiascastilloaudio@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail">
+</a>
