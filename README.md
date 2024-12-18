@@ -1,6 +1,6 @@
 ## Hi, I'm Matías 👋
 
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZ2bGN6bnBpdHRsZmk2NTF2NGZjN3l6YmlmdDVhOWp4d255MjRmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wn74RUT0vjnoU98Hnt/giphy.gif">
+<img align="right" width="300px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZ2bGN6bnBpdHRsZmk2NTF2NGZjN3l6YmlmdDVhOWp4d255MjRmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wn74RUT0vjnoU98Hnt/giphy.gif">
 
 ### About Me
 
