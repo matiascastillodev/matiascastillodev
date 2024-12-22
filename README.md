@@ -1,12 +1,12 @@
-# Hi, I'm Matías 👋
+# Hi There :wave:
 
-### About Me
+### :raising_hand_man: About Me
 
-Self-taught Web Developer.
+:bust_in_silhouette: Argentina-based Sound Designer, Electronic Technician & Web Developer
 
-[Contact](mailto:matiascastilloaudio@gmail.com)
+📫 [Contact](mailto:matiascastilloaudio@gmail.com)
 
-### Technologies I Use
+### :hammer_and_wrench: Technologies I Use
 
 ![apple](https://skillicons.dev/icons?i=apple)
 ![arduino](https://skillicons.dev/icons?i=arduino)
@@ -32,15 +32,8 @@ Self-taught Web Developer.
 ![vscode](https://skillicons.dev/icons?i=vscode)
 ![webpack](https://skillicons.dev/icons?i=webpack)
 
-### Statistics
+### :bar_chart: Statistics
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=matiascastillodev&show_icons=true&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=matiascastillodev&show_icons=true">
-  <img height=200 align="center" alt="github statistics" src="https://github-readme-stats.vercel.app/api?username=matiascastillodev&show_icons=true">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=matiascastillodev&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=matiascastillodev">
-  <img height=200 align="center" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiascastillodev">
-</picture>
+![webpack](https://github-readme-stats.vercel.app/api?username=matiascastillodev&card_width=500&hide_title=true&show_icons=true&theme=transparent)
+
+![webpack](https://github-readme-stats.vercel.app/api/top-langs/?username=matiascastillodev&card_width=500&hide_title=true&theme=transparent)
