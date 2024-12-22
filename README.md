@@ -34,5 +34,13 @@ Self-taught Web Developer.
 
 ### Statistics
 
-![github statistics](https://github-readme-stats.vercel.app/api?username=matiascastillodev)
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matiascastillodev)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=matiascastillodev&show_icons=true&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=matiascastillodev&show_icons=true">
+  <img alt="github statistics" src="https://github-readme-stats.vercel.app/api?username=matiascastillodev&show_icons=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=matiascastillodev&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=matiascastillodev">
+  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiascastillodev">
+</picture>
