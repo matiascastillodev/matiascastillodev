@@ -4,7 +4,7 @@
 
 :bust_in_silhouette: Argentina-based Sound Designer, Electronic Technician & Web Developer
 
-📫 [Contact](mailto:matiascastilloaudio@gmail.com)
+:mailbox: [Contact](mailto:matiascastilloaudio@gmail.com)
 
 ### :hammer_and_wrench: Technologies I Use
 
@@ -34,6 +34,6 @@
 
 ### :bar_chart: Statistics
 
-![webpack](https://github-readme-stats.vercel.app/api?username=matiascastillodev&card_width=500&hide_title=true&show_icons=true&theme=transparent)
+![github statistics](https://github-readme-stats.vercel.app/api?username=matiascastillodev&card_width=500&hide_title=true&show_icons=true&theme=transparent)
 
-![webpack](https://github-readme-stats.vercel.app/api/top-langs/?username=matiascastillodev&card_width=500&hide_title=true&theme=transparent)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matiascastillodev&card_width=500&hide_title=true&theme=transparent)
