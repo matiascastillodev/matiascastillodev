@@ -4,7 +4,7 @@
 
 :bust_in_silhouette: Argentina-based Sound Designer, Electronic Technician & Web Developer
 
-:mailbox: [Contact](mailto:matiascastilloaudio@gmail.com)
+:mailbox: [Contact](mailto:matiascastillodev@gmail.com)
 
 ### :hammer_and_wrench: Technologies I Use
 
